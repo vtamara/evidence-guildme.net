@@ -33,11 +33,12 @@ development console of chrome.
 
 However we closed for a while the dev console and allowed the connection,
 it printed to console some variables and examining them we could find the 
-address of the robber. We made video of this 10-Jun-2025/use_robber_address.webm.
+address of the robber. We made video of this 10-Jun-2025/use_robber_address.webm. This proves that this was the tool used to rob us the positions in
+Unicorn on 30.May.2025.
 
-This proves that this was the tool used to rob us the positions in
-Unicorn on 30.May.2025 and on 10.Jun.2025 other 540CELO and 2.73USDT that 
-we had today in the same wallet (it did the transfer with weird transaction 
-because I cancelled the usual ones as presented in video
-10-Jun-2025/draining_without_transfer.webm).
+
+Unfortunately on 10.Jun.2025 collecting and analyzing this malware it robbed
+us other 540CELO and 2.73USDT that we had in the same wallet (it did the 
+transfer with weird transaction because I cancelled the usual ones as 
+presented in video 10-Jun-2025/draining_without_transfer.webm).
 
